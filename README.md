@@ -1,6 +1,6 @@
 # Cálculo do Vetor de Forças
 
-Página criada para auxiliar meus alunos no cáculo do vetor de forças no Método das Forças, para estruturas com grau de hiperestaticidade 2.
+Página criada para auxiliar meus alunos no cáculo do vetor de forças do Método das Forças para cálculo de estruturas com grau de hiperestaticidade 2.
 [Clique aqui](http://calculo-matriz.surge.sh/) para acessar a página
 
 ![print](./public/demo.png)
